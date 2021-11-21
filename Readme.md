@@ -1,0 +1,1 @@
+Estudos do Ruby, como funções, métodos e gems.
